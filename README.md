@@ -23,5 +23,5 @@ A simple Prolog-based system that models:
 * Analyze book topics
 
 ## Contributors
-- []()
-- []()
+- [Mohamed Ahmed](https://github.com/mohamed-hamza20)
+- [Seif Waleed](https://github.com/Malware404seif)
