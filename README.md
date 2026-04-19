@@ -22,6 +22,8 @@ A simple Prolog-based system that models:
 * Find top reviewer
 * Analyze book topics
 
+---
+
 ## 📌 Assignment 2:Rescue Robot Navigation (Prolog)
 
 This project implements a rescue robot that navigates a grid-based environment using search algorithms in Prolog. The robot must avoid obstacles (debris and fire) and reach survivors efficiently.
